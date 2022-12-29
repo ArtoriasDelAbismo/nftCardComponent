@@ -24,7 +24,7 @@ body {
 }
 
 .wrapper {
-     height: 715px;
+     height: 100vh;
      display: flex;
      justify-content: center;
      align-items: center;
